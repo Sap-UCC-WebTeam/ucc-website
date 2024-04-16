@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ucc-website/static/css/main.8143e93a.css",
+    "main.js": "/ucc-website/static/js/main.96135f6f.js",
+    "static/media/Registration.png": "/ucc-website/static/media/Registration.97981a7da71f49ece9cb.png",
+    "static/media/Login.png": "/ucc-website/static/media/Login.6e3401f87d0b4a7759b5.png",
+    "static/media/background_image.png": "/ucc-website/static/media/background_image.c0a8334e822c2a97b822.png",
+    "static/media/Marketing.svg": "/ucc-website/static/media/Marketing.17bb76a922caa12cbb7405f97d9c7d02.svg",
+    "static/media/industry.png": "/ucc-website/static/media/industry.9d268ef1187062c866a9.png",
+    "static/media/students.png": "/ucc-website/static/media/students.7a6ac0e91938142f84bb.png",
+    "static/media/card1.png": "/ucc-website/static/media/card1.62282978fece85d469b5.png",
+    "static/media/card3.png": "/ucc-website/static/media/card3.70b90aad34135b1d3966.png",
+    "static/media/schools.png": "/ucc-website/static/media/schools.1c99ca0c19df14c21ab3.png",
+    "static/media/card2.png": "/ucc-website/static/media/card2.c6d942da17d2c20d6b41.png",
+    "static/media/SAP.png": "/ucc-website/static/media/SAP.4cb67a603ab2b7ffad57.png",
+    "index.html": "/ucc-website/index.html",
+    "main.8143e93a.css.map": "/ucc-website/static/css/main.8143e93a.css.map",
+    "main.96135f6f.js.map": "/ucc-website/static/js/main.96135f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8143e93a.css",
+    "static/js/main.96135f6f.js"
+  ]
+}
