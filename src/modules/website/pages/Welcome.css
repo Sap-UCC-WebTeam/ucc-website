@@ -1,0 +1,73 @@
+/* Welcome.css */
+
+.welcome-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .welcome-container h1 {
+    color: #000; /* Set your desired color code here */
+    font-weight: 700;
+    font-size: 32px;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .card {
+    /* width: 300px !important; */
+    /* height: 100%; */
+    margin: 10px;
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+  }
+  
+  .card img {
+    width: 100%;
+    /* height: 50%; */ /* Remove or adjust this line */
+    object-fit: cover;
+    
+
+  }
+  
+  .card-bottom {
+    padding: 0px;
+  }
+  
+  /* New styles for the description container */
+  .description-container {
+    background-color: white;
+    padding: 10px;
+    font-size:25px;
+    
+  }
+
+  .description-container h1 {
+    font-size: 20px;
+    text-align: left;
+  }
+  
+  .description-container p {
+    color: black;
+    font-size:14px;
+    text-align: left;
+    /* Additional styles for the text */
+  }
+  
+
+  .card-top {
+    /* Rounded top corners */
+    border-top-left-radius: 8px; 
+    border-top-right-radius: 8px;
+  }
+
+  
